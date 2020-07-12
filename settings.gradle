@@ -1,0 +1,2 @@
+rootProject.name = "Animatable2"
+include ':app'
